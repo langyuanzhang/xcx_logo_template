@@ -2,7 +2,7 @@
 小程序公司logo模板
 
 
-```
+```html
 <import src="../gxyy/gxyy.wxml" />
 
 <template is="msgItem" data="" />
@@ -10,7 +10,7 @@
 
 gxyy.wxml
 
-```
+```html
 <template name="msgItem">
   <view class='template'>
     <image src='/images/youyunlogo.png'></image>
@@ -21,7 +21,7 @@ gxyy.wxml
 
 wxss
 
-```
+```css
 .template{
   width: 100%;
   display: flex;
